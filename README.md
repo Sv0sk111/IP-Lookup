@@ -1,7 +1,7 @@
 # Sv0sk111 a.k.a. developer has no fault in anyones fault usage and doesnt support using it for malicious purposes.
 
 ## Description
-This python program has many features ip ascosiated.
+This python program has many features IP ascosiated.
 
 ## Features
 - Error handling for robustness and reliability.
