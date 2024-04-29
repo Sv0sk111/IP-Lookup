@@ -144,19 +144,19 @@ def main():
     choice = input("Enter> ")
     try:
         choice = int(choice)
-        if choice == 1:
+        if choice == '1':
             website_ip()
-        elif choice == 2:
+        elif choice == '2':
             geolocate()
-        elif choice == 3:
+        elif choice == '3':
             get_network_info()
-        elif choice == 4:
+        elif choice == '4':
             ip_range_search()
-        elif choice == 5:
+        elif choice == '5':
             scan_local_network()
-        elif choice == 6:
+        elif choice == '6':
             ip_whois_lookup()
-        elif choice == 7:
+        elif choice == '7':
             check_breaches()
         else:
             print("Invalid choice!")
